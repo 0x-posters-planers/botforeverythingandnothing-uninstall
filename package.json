@@ -1,0 +1,34 @@
+{
+  "name": "botforeverythingandnothing-uninstall",
+  "version": "1.0.0",
+  "description": "Manage everything and nothing with a powerful tool for comprehensive automation and management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x-posters-planers/botforeverythingandnothing-uninstall"
+  },
+  "author": "0x-posters-planers",
+  "license": "MIT",
+  "dependencies": {
+    "botforeverythingandnothing": "1.0.0",
+    "botforeverythingandnothing-uninstall": "1.0.0",
+    "webpack": "1.0.0",
+    "jest": "1.0.0",
+    "mysql": "1.0.0",
+    "underscore": "1.0.0",
+    "cors": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "passport": "1.0.0",
+    "node-sass": "1.0.0",
+    "mongoose": "1.0.0",
+    "nodemon": "1.0.0",
+    "web3-react": "1.0.0",
+    "xml2js": "1.0.0",
+    "validator": "1.0.0",
+    "moment": "1.0.0",
+    "mocha": "1.0.0"
+  }
+}
